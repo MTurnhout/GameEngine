@@ -1,5 +1,7 @@
-*.user
-
+# Directories
 src/.vs/
 src/bin/
 src/bin-int/
+
+#files
+*.user
